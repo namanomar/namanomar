@@ -4,7 +4,7 @@
 - 📫 How to reach me : omarnaman33@gmail.com
 
 ## :student: What i Know
-![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,ts,react,nodejs,express,mongodb,mysql,npm,yarn,postman,vscode,notion,figma,xd,androidstudio,vercel,vite,python)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,ts,react,nodejs,express,mongodb,mysql,npm,yarn,postman,vscode,notion,figma,xd,androidstudio,vercel,vite,python,pytorch,nextjs,c,cpp,java,tensorflow,docker)
 
 
 ## 💻 Github Contributions
