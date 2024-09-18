@@ -1,6 +1,7 @@
 <h1 align="center">Hey 👋, I am Naman Omar</h1>
 <h3 align="center">A passionate Web Developer and ML Enthusiast</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=namanomar&label=Profile%20views&color=0e75b6&style=flat" alt="namanomar" /> </p>
 
 ## :student: What i Know
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,ts,react,nodejs,express,mongodb,mysql,npm,yarn,postman,vscode,notion,figma,xd,androidstudio,vercel,vite,python,pytorch,nextjs,c,cpp,java,tensorflow,docker)
