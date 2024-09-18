@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Naman Omar
--  I’m interested in web and android Development
-- 🌱 I’m currently learning at IIIT KOTTAYAM
-- 📫 How to reach me : omarnaman33@gmail.com
+<h1 align="center">Hey 👋, I am Naman Omar</h1>
+<h3 align="center">A passionate Web Developer and ML Enthusiast</h3>
+
 
 ## :student: What i Know
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,ts,react,nodejs,express,mongodb,mysql,npm,yarn,postman,vscode,notion,figma,xd,androidstudio,vercel,vite,python,pytorch,nextjs,c,cpp,java,tensorflow,docker)
