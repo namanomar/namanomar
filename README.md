@@ -1,5 +1,5 @@
 # Hi, I’m Naman 👋  
-**AI / ML Research Engineer | Curious about breaking models**
+**AI / ML Research Engineer**
 
 I work at the intersection of **machine learning, research, and systems**.  
 My primary interest is understanding *why models work, when they fail, and how to make them more reliable* , not just training them to get a number.
