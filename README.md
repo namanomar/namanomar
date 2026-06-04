@@ -81,7 +81,6 @@ Currently finishing a B.Tech in CS (AI & Data Science, Honors) at **IIIT Kottaya
 | LLMs for Efficient Surrogate Model Selection | ICCCNT 2025 | ✅ Accepted |
 | ProactiveGuard: IoT Fall Detection & RAG for Alzheimer's Patients | SPCOM 2026 | ✅ Accepted |
 | TopicSelectNet: Hybrid Abstractive Summarisation for Legal Docs | ICMLDE 2025 | ✅ Accepted |
-| Federated Learning for Multi-Support Itemset Mining | IEEE Transaction | 🟡 Under Review |
 
 ---
 
