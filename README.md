@@ -92,8 +92,7 @@ Currently finishing a B.Tech in CS (AI & Data Science, Honors) at **IIIT Kottaya
 - 👨‍💻 **AI & Data Science Lead** — BetaLabs, IIIT Kottayam
 
 ---
-
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=namanomar&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namanomar&layout=compact&theme=default&hide_border=true" height="150"/>
+<img src="https://streak-stats.demolab.com?user=namanomar&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=namanomar&theme=default" height="150"/>
 </div>
