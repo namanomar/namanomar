@@ -93,6 +93,6 @@ Currently finishing a B.Tech in CS (AI & Data Science, Honors) at **IIIT Kottaya
 
 ---
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=namanomar&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150"/>
+<img src="https://streak-stats.demolab.com/?user=namanomar&theme=dark" height="150"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=namanomar&theme=default" height="150"/>
 </div>
