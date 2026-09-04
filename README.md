@@ -19,18 +19,6 @@
 
 AI/ML engineer at **DevRev** (Applied AI), previously **TIFIN** and **Zynn.ai**. I work at the intersection of NLP research and production systems — fine-tuning transformers, building evaluation frameworks, and deploying agentic architectures that actually hold up under real load.
 
-Currently finishing a B.Tech in CS (AI & Data Science, Honors) at **IIIT Kottayam** · CGPA **9.38**
-
----
-
-### What I'm Working On
-
-- 🔧 LLM prompt pipelines, agentic workflows & AI security guardrails @ **DevRev**
-- 📄 Two journal papers under review — federated learning & abstractive summarisation
-- 🧠 Exploring inference efficiency, KV-cache optimisation, and LLM evaluation theory
-
----
-
 ### Tech Stack
 
 **Languages**
@@ -55,18 +43,6 @@ Currently finishing a B.Tech in CS (AI & Data Science, Honors) at **IIIT Kottaya
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 
----
-
-### Featured Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [**MedInsight**](https://github.com/namanomar/MedInsight) | RAG pipeline over 1,000+ medical docs · sub-second Top-K retrieval · hallucination-aware generation | FAISS · Sentence-Transformers · Qwen2.5 |
-| [**Cerberus**](https://github.com/namanomar/Cerberus) | Real-time fraud detection · ROC-AUC 0.921 · sub-20ms via FastAPI · Kafka at 10 TPS | LightGBM · Node2Vec · NetworkX · FastAPI |
-| [**MedGraphRAG**](https://github.com/namanomar/MedGraphRAG) | Graph-enhanced RAG for clinical reasoning · knowledge graph + vector search | Python · GNN · RAG |
-| [**Prism**](https://prism.iiitkottayam.ac.in/) | Centralised institutional portal for IIIT Kottayam — academics, placements, clubs | Full-Stack · Dashboards |
-| [**Awaaz**](https://awaaz-orpin.vercel.app) | Real-time voice & speech processing platform | Python · NLP |
-| [**RoomEase**](https://room-ease-one.vercel.app/) | Hotel management & booking platform | Next.js · Sanity |
 
 ---
 
@@ -83,13 +59,6 @@ Currently finishing a B.Tech in CS (AI & Data Science, Honors) at **IIIT Kottaya
 | TopicSelectNet: Hybrid Abstractive Summarisation for Legal Docs | ICMLDE 2025 | ✅ Accepted |
 
 ---
-
-### Highlights
-
-- 🥉 **Third Prize** — International Hackathon, IISc Bengaluru
-- 🥇 **First Prize** — Apoorv AI/ML Hackathon, IIIT Kottayam
-- 🏛️ Government of Kerala MoU projects — Alzheimer's fall detection & Kathakali sign recognition
-- 👨‍💻 **AI & Data Science Lead** — BetaLabs, IIIT Kottayam
 
 ---
 <div align="center">
